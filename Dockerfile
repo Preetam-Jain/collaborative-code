@@ -2,6 +2,9 @@ FROM python:3
 
 WORKDIR /app
 
-COPY test.py /app
+RUN pip3 install fastapi
+RUN pip3 install pydantic
 
-CMD ["python3", "./test.py"]
+COPY python_executor.py /app
+
+CMD ["fastapi", "dev", "./python_executor.py"]

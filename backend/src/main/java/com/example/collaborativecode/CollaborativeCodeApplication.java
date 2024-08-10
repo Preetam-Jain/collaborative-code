@@ -1,13 +1,13 @@
-package com.example.docker_java_demo;
+package com.example.collaborativecode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DockerJavaDemoApplication {
+public class CollaborativeCodeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DockerJavaDemoApplication.class, args);
+		SpringApplication.run(CollaborativeCodeApplication.class, args);
 	}
 
 }

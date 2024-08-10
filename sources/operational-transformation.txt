@@ -1,0 +1,10 @@
+https://codemirror.net/examples/collab/
+https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html
+https://en.wikipedia.org/wiki/Operational_transformation#OT_control_(integration)_algorithms
+https://www.npmjs.com/package/@monaco-editor/react#create-your-own-editor
+https://microsoft.github.io/monaco-editor/typedoc/classes/Range.html
+https://www.reddit.com/r/node/comments/94o83j/thoughts_one_best_way_to_create_a_google_docs/
+https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/concurrency-in-collaborative-editing
+https://medium.com/@sureshpodeti/system-design-google-docs-93e12133a979
+https://github.com/sockjs/sockjs-client
+

@@ -1,0 +1,7 @@
+https://github.com/convergencelabs/monaco-collab-ext/blob/master/src/ts/RemoteCursorWidget.ts
+https://github.com/convergencelabs/monaco-collab-ext/blob/master/src/ts/RemoteCursorManager.ts
+https://github.com/convergencelabs/monaco-collab-ext/tree/master
+https://github.com/microsoft/monaco-editor/blob/main/docs/integrate-esm.md
+https://microsoft.github.io/monaco-editor/typedoc/interfaces/editor.ICodeEditor.html
+https://microsoft.github.io/monaco-editor/typedoc/interfaces/editor.IEditor.html
+https://github.com/react-monaco-editor/react-monaco-editor/blob/master/src/editor.tsx
